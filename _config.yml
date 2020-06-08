@@ -1,22 +1,23 @@
-title:            Site Title
+title:            Blog
 description:      Describe your website here.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
+baseurl: ""
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: "http://luyang1026.github.io/blog"
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Lu Yang
+  avatar:         rabbit.jpeg
+  bio:            "Hi, there. I'm a front-end engineer. Soccer is my passion. A balanced life is my persuit"
+  email:          sqush@aliyun.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:       "luyang1026" 
   stackexchange:  
   linkedin:       
   instagram:      
