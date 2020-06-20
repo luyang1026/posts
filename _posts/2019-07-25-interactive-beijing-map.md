@@ -11,4 +11,4 @@ tags: [workpiece]
   "vuex": "^3.1.1"
 }
 ```
-<iframe src="http://luyang1026.github.io/reactive-map-beijing/" width="800" height="490" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://luyang1026.github.io/reactive-map-beijing/" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
