@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://luyang1026.github.io/posts/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luyang1026.github.io/posts/" rel="alternate" type="text/html" /><updated>2020-06-22T21:27:34-04:00</updated><id>https://luyang1026.github.io/posts/feed.xml</id><title type="html">Blog</title><subtitle>Describe your website here.</subtitle><entry><title type="html">Threejs Tesla</title><link href="https://luyang1026.github.io/posts/threejs-tesla/" rel="alternate" type="text/html" title="Threejs Tesla" /><published>2020-06-08T00:00:00-04:00</published><updated>2020-06-08T00:00:00-04:00</updated><id>https://luyang1026.github.io/posts/threejs-tesla</id><content type="html" xml:base="https://luyang1026.github.io/posts/threejs-tesla/">&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nl&quot;&gt;&quot;dependencies&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://luyang1026.github.io/posts/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luyang1026.github.io/posts/" rel="alternate" type="text/html" /><updated>2020-06-30T17:38:00-04:00</updated><id>https://luyang1026.github.io/posts/feed.xml</id><title type="html">Blog</title><subtitle>Describe your website here.</subtitle><entry><title type="html">Software License</title><link href="https://luyang1026.github.io/posts/license/" rel="alternate" type="text/html" title="Software License" /><published>2020-06-30T00:00:00-04:00</published><updated>2020-06-30T00:00:00-04:00</updated><id>https://luyang1026.github.io/posts/license</id><content type="html" xml:base="https://luyang1026.github.io/posts/license/">&lt;figure&gt;
+	&lt;a href=&quot;/images/software-license.jpg&quot;&gt;&lt;img src=&quot;/images/software-license.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;types-of-software-license&quot;&gt;Types of Software License&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Apache&lt;/li&gt;
+  &lt;li&gt;MIT (Massachusetts Institute of Technology)&lt;/li&gt;
+  &lt;li&gt;ISC (Internet System Consortium)&lt;/li&gt;
+  &lt;li&gt;BSD&lt;/li&gt;
+  &lt;li&gt;Mozilla&lt;/li&gt;
+  &lt;li&gt;LGPL (Lesser General Public License)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="knowledge" /><summary type="html"></summary></entry><entry><title type="html">Threejs Tesla</title><link href="https://luyang1026.github.io/posts/threejs-tesla/" rel="alternate" type="text/html" title="Threejs Tesla" /><published>2020-06-08T00:00:00-04:00</published><updated>2020-06-08T00:00:00-04:00</updated><id>https://luyang1026.github.io/posts/threejs-tesla</id><content type="html" xml:base="https://luyang1026.github.io/posts/threejs-tesla/">&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nl&quot;&gt;&quot;dependencies&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;threejs&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;0.115&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -87,28 +99,4 @@ git cherry-pick F
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A--B--C--D--F  ← master ← HEAD
       \--E--G  ← v1-release
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Commit G introduces same changes as F.&lt;/p&gt;</content><author><name></name></author><category term="git" /><summary type="html">When You Need to Make a Commit in Tow Branches</summary></entry><entry><title type="html">DHCP</title><link href="https://luyang1026.github.io/posts/DHCP/" rel="alternate" type="text/html" title="DHCP" /><published>2019-07-14T00:00:00-04:00</published><updated>2019-07-14T00:00:00-04:00</updated><id>https://luyang1026.github.io/posts/DHCP</id><content type="html" xml:base="https://luyang1026.github.io/posts/DHCP/">&lt;h3 id=&quot;dynamic-host-configuration-protocol&quot;&gt;Dynamic Host Configuration Protocol&lt;/h3&gt;
-&lt;p&gt;Every computer on a network has to have an I.P. address.&lt;/p&gt;
-
-&lt;p&gt;there are two ways that a computer can be assigned an I.P. addresss: &lt;strong&gt;&lt;em&gt;static IP&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;dynamic IP&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;static IP: where a user assigns an I.P. address manually.&lt;/li&gt;
-  &lt;li&gt;dynamic IP: where a computer gets an I.P. address from a DHCP server&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A DHCP server automatically assigns a computer an:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;I.P. adresss&lt;/li&gt;
-  &lt;li&gt;Subnet mask&lt;/li&gt;
-  &lt;li&gt;Default gateway&lt;/li&gt;
-  &lt;li&gt;DNS server&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The DHCP server assigns the I.P. address as a lease.&lt;/p&gt;
-
-&lt;p&gt;A lease is the amount of time an I.P. address is assigned to a computer.&lt;/p&gt;
-
-&lt;p&gt;A reservation ensures that a specific computer or device will always be given the same I.P. address. [image]&lt;/p&gt;
-
-&lt;p&gt;DHCP is a service that runs on a server. It also a service that runs on many routers.&lt;/p&gt;</content><author><name></name></author><category term="network" /><summary type="html">Dynamic Host Configuration Protocol Every computer on a network has to have an I.P. address.</summary></entry></feed>
+&lt;p&gt;Commit G introduces same changes as F.&lt;/p&gt;</content><author><name></name></author><category term="git" /><summary type="html">When You Need to Make a Commit in Tow Branches</summary></entry></feed>
