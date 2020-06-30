@@ -278,8 +278,8 @@ header .entry-meta {
 		border-radius: 3px;
 
 		@media #{$medium} {
-			margin-left: 10px;
-			margin-right: 10px;
+			max-width: 960px;
+			margin: 30px auto 30px auto;
 			padding: 20px 30px;
 		}
 
@@ -302,8 +302,8 @@ header .entry-meta {
 		border-radius: 3px;
 
 		@media #{$medium} {
-			margin-left: 10px;
-			margin-right: 10px;
+			max-width: 960px;
+			margin: 30px auto 30px auto;
 			padding: 20px 30px;
 		}
 
@@ -366,7 +366,8 @@ header .entry-meta {
 	border-radius: 3px;
 
 	@media #{$medium} {
-		margin: 50px 10px 20px 10px;
+		max-width: 960px;
+		margin: 30px auto 30px auto;
 		padding: 50px 40px 25px;
 	}
 
@@ -457,8 +458,8 @@ header .entry-meta {
 		margin: 40px 2px 20px 2px;
 
 		@media #{$medium} {
-			margin-left: 20px;
-			margin-right: 20px;
+			max-width: 960px;
+			margin: 30px auto 30px auto;
 		}
 
 		@media #{$large} {
